@@ -72,6 +72,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Causal inference in social network data](https://github.com/osofr/useR2016_networks)
 
++ [MAVIS: Meta-Analysis via Shiny](http://kylehamilton.com/files/HamiltonandAydin_useR!2016.pdf)
+
 #### Tutorials
 
 + [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
